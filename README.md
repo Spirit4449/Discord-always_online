@@ -12,8 +12,10 @@ Enter **TOKEN** as the key and paste your discord token into the value. [Click h
 
 <img width="125" alt="image" src="https://user-images.githubusercontent.com/71677613/151083029-413507d7-be20-4ae4-8e61-64846906c1ab.png">
 
+## Files
+Now just enter the code above into the files. (main.py and keep_alive.py)
+
 ## Uptimer Robot
-Now just enter the code into the files.
 - Next click RUN and you should see a window pop up on the website.
 
 <img width="388" alt="image" src="https://user-images.githubusercontent.com/71677613/151083863-aa06f72d-a5e5-4a26-b85f-50884eee3ca7.png">
